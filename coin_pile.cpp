@@ -20,5 +20,7 @@ int main(){
     }
 
 
-}
-// dcds kv sf kwjd
+} 
+
+// mai hun awaara aashik bhoolna nhi
+// dcds kv sf kwjdmain
